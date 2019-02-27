@@ -139,7 +139,7 @@ regresa = result.toString();
     
     }
     
-    public String SumaBinaria(String a, String b, int base)
+    public String SumaBinaria(String a, String b, int base) // son funciones que ta tenia creadas, por eso el nombre de OperacionBinaria
     {   
         operaciones="";
         int a1 = Integer.parseInt(a, 10); 
